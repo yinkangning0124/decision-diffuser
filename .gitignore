@@ -1,0 +1,6 @@
+__pycache__/
+/diffuser/default_inv
+*.pyc
+*.log
+*.pkl
+/analysis/diffuser

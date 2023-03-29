@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/home/kangning/kangning/decision-diffuser')
+
 if __name__ == '__main__':
     from ml_logger import logger, instr, needs_relaunch
     from analysis import RUN
